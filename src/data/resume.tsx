@@ -1,10 +1,10 @@
 import { Icons } from "@/components/icons";
 
 export const DATA = {
-  name: "Dillion Verma",
-  initials: "DV",
+  name: "Carlos Eid",
+  initials: "CE",
   url: "https://dillion.io",
-  location: "San Francisco, CA",
+  location: "Lebanon,Beirut",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
     "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
